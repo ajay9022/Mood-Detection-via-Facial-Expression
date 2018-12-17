@@ -2,7 +2,7 @@
 
 The project tries to predict the mood of a person by detecting his/her Facial Expression.
 
-It uses VGG-17 for the detection of Facial Expression.
+It uses Convolutional layers, Pooling layers and some dense layers for the detection of Facial Expression.
 
 The Facial Expression detected are :
 
